@@ -1,0 +1,19 @@
+{ 
+    "OrderID": 123456,
+    "Adress": "Castillo 3200",
+    "Status": "Ready"
+    "Articles": [
+    {
+      "Name":"Carne",
+      "Price": 4000,
+      "Quantity": 2,
+      "Dangerous":false
+    },
+    { 
+      "Name":"Acid",
+      "Price": 4500,
+      "Quantity": 2,
+      "Dangerous":true
+    } 
+    ]
+}
